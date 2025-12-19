@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QFast Image Resizer
+Comment=Simple and fast image resizing tool
+Exec=/usr/share/QFastImageResizer/qfastresizer.py
+Icon=QFast
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
+Author=A. Serhat KILICOGLU (shampuan)
+X-GitHub=https://github.com/shampuan
