@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=QFast Image Resizer
+Comment=Resize images via GUI or Command Line (Batch Support)
+Exec=/usr/share/QFastImageResizer/qfastresizer.py %F
+Icon=QFast
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
+Keywords=image;resize;batch;cli;exif;
+Author=A. Serhat KILICOGLU (shampuan)
+X-GitHub=https://github.com/shampuan
+MimeType=image/jpeg;image/png;image/bmp;image/webp;
