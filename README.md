@@ -3,6 +3,10 @@ A fast and lightweight image resizer.
 
 Hint: Try write "qfast help" to terminal.
 
+Added "chown root:root to all files. It was an important issue.
+
+"Do" named button renamed to "Do it!".
+
 <img width="256" height="256" alt="QFast" src="https://github.com/user-attachments/assets/ac8c0b67-b3cf-448a-82d8-c3e1ff8f75ba" />
 
 This is a lightweight and fast image resizer written in Python. It has minimal dependencies and runs smoothly.
